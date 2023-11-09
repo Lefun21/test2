@@ -1,0 +1,70 @@
+{
+  "guid": "8458005056b8092611ee337ad3b09b1e",
+  "date_start": "10.10.2023",
+  "date_end": "10.14.2023",
+  "status": "3",
+  "organization_guid":"80c90cc47a6f2d8b11e8ea4a31069f53",
+  "subdivision_guid":"80c90cc47a6f2d8b11e8ea4a31069f53",
+  "work_type":{
+    "guid":"73fdg46"
+  },
+  "reason_request":"TO-1",
+  "work":[
+    {
+      "work_guid": "8458005056b8092611ee3206668d5be7", 
+      "employers": [
+      {
+        "guid": "80cb0cc47a6f2d8b11e9045a2005687b"
+      },
+      {
+        "guid": "80cb0cc47a6f2d8b11e90458db05863f"
+        }
+    ], 
+    "normhour":1,
+    "discount_percent":16,
+     "count": 2, 
+     "price": 400
+    },
+    {
+      "work_guid": "af80005056b8355311ee336df276b896", 
+      "employers": [
+      {
+        "guid": "73fdg46"
+      },
+      {
+        "guid": "73fdg46"
+      }
+    ], 
+    "normhour":1.5,
+    "discount_percent":5,
+     "count": 10, 
+     "price": 5000
+    }
+  ],
+  "products": [
+    {
+      "guid": "12agsdjhad",
+      "measure_unit":"guid",
+      "request_reason_identifier":"guid",
+      "quantity":2,
+      "coefficient":0.75,
+      "nomenclature_guid":"guid",
+      "discount_percent":"17",
+      "discount_product_guid":"guid",
+      "company_storage_guid":"guid",
+      "nds_rate_guid":"guid"
+    },
+    {
+      "guid": "12agsdjhad",
+      "measure_unit":"guid",
+      "request_reason_identifier":"guid",
+      "quantity":5,
+      "coefficient":0.75,
+      "nomenclature_guid":"guid",
+      "discount_percent":"17",
+      "discount_product_guid":"guid",
+      "company_storage_guid":"guid",
+      "nds_rate_guid":"guid"
+    }
+  ]
+}

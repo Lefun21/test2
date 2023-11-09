@@ -1,0 +1,94 @@
+{
+  "guid":"4fg5554",
+  "author":{
+    "guid":"4fg5554",
+    "name":"Администраторов Автор Юзерович"
+  },
+  "finish_work_time":"34.520",
+  "type_repair":{
+    "guid":"4fg5554",
+    "name":"Замена этого корыта на нормальное авто"
+  },
+  "guarantees":"Что-то на гарантийном",
+  "date":"01.01.2020:11:11:11",
+  "date_close":"01.01.2020:11:11:11",
+  "date_start":"01.01.2020:11:22:22",
+  "date_end":"01.01.2020:11:22:22",
+  "dispatcher":{
+    "guid":"4fg5554",
+    "first_name":"Рабочий",
+    "last_name":"Работников",
+    "middle_name":"Работнович",
+    "position":{
+      "guid":"4fg5554",
+      "name":"Какой-то важный чел"
+    }
+  },
+  "settlement_agreement":{
+    "guid":"4fg5554",
+    "name":"Какой-то документ,хз если честно какой"
+  },
+"document_basis":{
+  "guid":"4fg5554",
+  "name":"Какой-то документ,хз если честно какой"
+},
+"client":{
+  "first_name":"Покупатель",
+  "last_name":"Лады",
+  "middle_name":"Шпрот едишн"
+},
+"commentary":"Гранта 1.5 лучше камри 3.5 и лучше ламбы раз в 5",
+"master_workshop":{
+  "guid":"4fg5554",
+  "name":"Пряморуков Мастер Мастерович"
+},
+"manager":{
+  "guid":"4fg5554",
+  "name":"Продавальщиов Менеджер Ладович"
+},
+"number":"ЗНС+0024344",
+"normhour":{
+  "guid":"23123",
+  "name":"мойка"
+},
+"description_reason_request":"Купил bmw за 200к и хочет сделать за 10к",
+"organization":{
+  "guid":"4fg5554",
+  "full_name":"Aliexpress(только оригинальные японские запчасти на Лада)"
+},
+"subdivision":{
+  "guid":"4fg5554",
+  "name":"Alibaba"
+},
+"reason_request":"ТО2",
+"mileage":"78129",
+"operation_performed":"01",
+"recommendation":"Не покупать Москвич, когда JAC дешевле",
+"service_company":{
+  "guid":"4fg5554",
+  "name":"Кампания где сервисят"
+},
+"discount_surcharge":{
+  "guid":"4fg5554",
+  "name":"Скидки нет"
+},
+"discount_surcharge_work":{
+  "guid":"23123",
+  "name":"Я каменщик, работаю 3 дня"
+},
+"status_guid":{
+  "guid":"4fg5554",
+  "name":"закрыт"
+},
+"sum_document":"10000000",
+"sum_nomenclature":"100000000",
+"sum_work_document":"10000000000",
+"price_type":{
+  "guid":"4fg5554",
+  "name":"Бесценно"
+},
+"price_type_work":{
+  "guid":"4fg5554",
+  "name":"Бесценно"
+}
+}
